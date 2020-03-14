@@ -1,0 +1,10 @@
+
+*.bin
+
+lab1/firmware\.elf
+
+*.o
+
+lab2/\.idea/
+
+*.elf
